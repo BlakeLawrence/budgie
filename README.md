@@ -1,1 +1,2 @@
 # Budgie
+Budget Tracker
