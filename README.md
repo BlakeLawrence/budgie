@@ -1,2 +1,0 @@
-# Budgie
-Budget Tracker
